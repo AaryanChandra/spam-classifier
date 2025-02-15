@@ -1,2 +1,2 @@
-# spam-classifier
-model trained to classify spam and ham email
+Simple Hangman game in python 
+exe in dist folder
